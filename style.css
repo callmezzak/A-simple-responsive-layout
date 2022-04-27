@@ -53,7 +53,10 @@ section {
     }
     
 }
-@media (min-width: 601px) and (max-width: 1000px) {
+@media (min-width: 601px) and (max-width: 1300px) {
+    section {
+        background: gray;
+    }
     .sectwo {
         background: teal;
     }
